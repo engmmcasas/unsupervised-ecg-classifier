@@ -14,8 +14,8 @@ ToDo:
 wfdb-python)
 - [ ] some visualizations and explore dataset
 - [ ] Remove baseline.
-- [ ] Cut beats from raw signal using QRS peaks from annotation.
-- [ ] Oversample data.
+- [x] Cut beats from raw signal using QRS peaks from annotation.
+- [x] ~~Oversample data.~~ No necessary
 - [ ] Take features from beats.
-- [ ] Calculate R-R signals.
+- [x] Calculate R-R signals.
 - [ ] Identify ATB and BTB.
